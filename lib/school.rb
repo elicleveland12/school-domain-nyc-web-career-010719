@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class School
 
   attr_accessor :name, :roster
@@ -32,3 +33,8 @@ class School
 
 
 end
+=======
+
+
+
+>>>>>>> 01efcf2836e8fada217892e1d38fdd0c840f0427
